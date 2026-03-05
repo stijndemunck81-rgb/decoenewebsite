@@ -1203,7 +1203,7 @@ height: 90%;
       text-align: left;
     }
     header span {
-      padding-top: 0;
+      padding-top: 50;
       padding-left: 0;
       padding-bottom: 0;
     }
@@ -1223,7 +1223,7 @@ height: 90%;
     #address{
       display: none
     }
-  }
+
 
   @media only screen and (max-width: 767px) {
     body {
