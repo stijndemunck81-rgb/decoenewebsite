@@ -369,7 +369,7 @@ http://www.tooplate.com/view/2098-health
   }
 
   .navbar-default .navbar-nav li.appointment-btn a {
-    background: #a8beb8;
+    background: #56747a;
     border-radius: 3px;
     color: #ffffff;
     font-weight: 600;
@@ -378,7 +378,7 @@ http://www.tooplate.com/view/2098-health
   }
 
   .navbar-default .navbar-nav li.agenda-btn a:hover {
-    background: #7ca6af;
+    background: #3e5357;
     color: #ffffff !important;
   }
 
@@ -388,7 +388,7 @@ http://www.tooplate.com/view/2098-health
   }
 
   .navbar-default .navbar-nav li.agenda-btn a {
-    background: #c2d1cd;
+    background: #56747a;
     border-radius: 3px;
     color: #ffffff;
     font-weight: 600;
@@ -397,7 +397,7 @@ http://www.tooplate.com/view/2098-health
   }
 
   .navbar-default .navbar-nav li.agenda-btn a:hover {
-    background: #64726e;
+    background: #3e5357;
     color: #ffffff !important;
   }
 
@@ -1191,7 +1191,6 @@ height: 90%;
       margin: 0 auto;
     }
   }
-  
 
     .slider .item {
       background-position: center;
@@ -1204,7 +1203,7 @@ height: 90%;
       text-align: left;
     }
     header span {
-      padding-top: 50;
+      padding-top: 0;
       padding-left: 0;
       padding-bottom: 0;
     }
@@ -1224,7 +1223,7 @@ height: 90%;
     #address{
       display: none
     }
-
+  }
 
   @media only screen and (max-width: 767px) {
     body {
